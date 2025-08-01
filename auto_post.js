@@ -6,9 +6,9 @@
         contentApi: 'http://localhost:8080/', // 获取内容的API
         selectors: {
             // 输入框选择器，可以是多个类名
-            input: '.Form_input_3JT2Q',
+            input: '.wbpro-form textarea',
             // 发送按钮选择器
-            button: '.woo-button-main.woo-button-flat.woo-button-primary.woo-button-m.woo-button-round.Composer_btn_2XFOD'
+            button: '.woo-button-main.woo-button-flat.woo-button-primary.woo-button-m.woo-button-round'
         }
     };
 
